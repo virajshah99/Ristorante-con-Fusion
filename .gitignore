@@ -1,3 +1,5 @@
 node_modules/
 Assignment_description.*
 description.*
+package.*
+package-lock.*
