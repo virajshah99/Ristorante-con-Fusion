@@ -36,3 +36,7 @@
 .navbar-dark{
     background-color: #512DAB;
 }
+
+.btn-warning{
+    margin: 20px 0px 10px 0px;
+}
